@@ -12,7 +12,7 @@ Here's what the page looks like:
 
 <summary>Payment Gateway on mobile</summary>
 
-![](<../../.gitbook/assets/image (5).png>)
+![](../../.gitbook/assets/select_alias_mobile.png)
 
 </details>
 
@@ -20,7 +20,7 @@ Here's what the page looks like:
 
 <summary>Payment Gateway on desktop</summary>
 
-![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/select_alias_web.png)
 
 </details>
 
