@@ -244,7 +244,7 @@ The opening of such a link by a user will be a deposit request and will affect t
 
 <summary>Example of UI for payment gateway for mobile</summary>
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (3).png>)
+![](../../.gitbook/assets/PP.png)![](<../../.gitbook/assets/PP_video (1).png>)
 
 </details>
 
