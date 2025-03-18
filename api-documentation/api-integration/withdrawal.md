@@ -6,8 +6,8 @@
 
 The section is similar to the [**Request to create a deposit**](withdrawal.md#request-to-create-a-withdrawal) section. Only the data required to create a withdrawal request will change.
 
-{% openapi src="../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json" path="/Remotes/create-withdrawal" method="post" %}
-[pretty_a-pay_api_19.12.2024.json](../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json)
+{% openapi src="../../.gitbook/assets/apay_openapi.json" path="/Remotes/create-withdrawal" method="post" %}
+[apay_openapi.json](../../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
 All the necessary information can be found in our [API documentation](https://api.a-pay.one/#tag/Withdrawal/paths/~1Remotes~1create-withdrawal/post).
@@ -39,8 +39,8 @@ All the necessary information can be found in our [API documentation](https://ap
 
 ### Withdrawal information
 
-{% openapi src="../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json" path="/Remotes/withdrawal-info" method="get" %}
-[pretty_a-pay_api_19.12.2024.json](../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json)
+{% openapi src="../../.gitbook/assets/apay_openapi.json" path="/Remotes/withdrawal-info" method="get" %}
+[apay_openapi.json](../../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
 **Examples of the responses:**

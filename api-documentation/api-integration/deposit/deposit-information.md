@@ -1,7 +1,7 @@
 # Deposit information
 
-{% openapi src="../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json" path="/Remotes/deposit-info" method="get" %}
-[pretty_a-pay_api_19.12.2024.json](../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json)
+{% openapi src="../../../.gitbook/assets/apay_openapi.json" path="/Remotes/deposit-info" method="get" %}
+[apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
 **Example of the responses:**

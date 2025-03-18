@@ -2,8 +2,8 @@
 
 Some payment systems also provide activation of deposits. In simple words, 2 more actions are added to the request processing.
 
-{% openapi src="../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json" path="/Remotes/deposit-activate" method="post" %}
-[pretty_a-pay_api_19.12.2024.json](../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json)
+{% openapi src="../../../.gitbook/assets/apay_openapi.json" path="/Remotes/deposit-activate" method="post" %}
+[apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
 A perfect example of a payment system that provides for activation is upi\_p2p. Let's analyze an example of request processing and activation:

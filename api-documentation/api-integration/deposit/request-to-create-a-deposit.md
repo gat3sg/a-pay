@@ -4,8 +4,10 @@
 
 This section provides information on the most popular request - deposit creation request.
 
-{% openapi src="../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json" path="/Remotes/create-deposit" method="post" %}
-[pretty_a-pay_api_19.12.2024.json](../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json)
+
+
+{% openapi src="../../../.gitbook/assets/apay_openapi.json" path="/Remotes/create-deposit" method="post" %}
+[apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
 In order for the request to be created correctly, it is necessary to comply with the documentation requirements: all required fields must be present in the request, field validation must be observed.&#x20;

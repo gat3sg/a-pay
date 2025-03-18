@@ -2,8 +2,8 @@
 
 Some payment methods resends the OTP code.
 
-{% openapi src="../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json" path="/Remotes/deposit-resend-otp" method="post" %}
-[pretty_a-pay_api_19.12.2024.json](../../../.gitbook/assets/pretty_a-pay_api_19.12.2024.json)
+{% openapi src="../../../.gitbook/assets/apay_openapi.json" path="/Remotes/deposit-resend-otp" method="post" %}
+[apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
 **Examples of the responses:**

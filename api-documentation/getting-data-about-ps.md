@@ -6,8 +6,8 @@ The integration of our service to your platform is expected to be done with the 
 
 There is a request, by creating and sending which you will find out which payment system is connected to your project and what limits there are on it. API docs about that request is [here](https://api.a-pay.one/#tag/Payment-system/paths/~1Remotes~1payment-systems-info/get).
 
-{% openapi src="../.gitbook/assets/pretty_a-pay_api_19.12.2024.json" path="/Remotes/payment-systems-info" method="get" %}
-[pretty_a-pay_api_19.12.2024.json](../.gitbook/assets/pretty_a-pay_api_19.12.2024.json)
+{% openapi src="../.gitbook/assets/apay_openapi.json" path="/Remotes/payment-systems-info" method="get" %}
+[apay_openapi.json](../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
 **Example of the responses:**
