@@ -10,14 +10,14 @@ This section provides information on the most popular request - deposit creation
 [apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
 {% endopenapi %}
 
-In order for the request to be created correctly, it is necessary to comply with the documentation requirements: all required fields must be present in the request, field validation must be observed.&#x20;
+In order for the request to be created correctly, it is necessary to comply with the documentation requirements: all required fields must be present in the request, and field validation must be observed.&#x20;
 
 In a deposit request, the client must send the following information:
 
 * **project\_id** - project id in the A-pay platform, the parameter can be found in the projects table next to the project name.
 * **amount** - deposit amount in integer
-* **currency** - currency of payment system
-* **payment\_system** - name of payment system from A-pay platform
+* **currency** - currency of the payment system
+* **payment\_system** - name of the payment system from A-pay platform
 * **custom\_transaction\_id** - unique transaction identifier in the client's system
 * **custom\_user\_id** - unique user identifier in the client's system
 * **data** - additional data depending on the PS[^1]. To find out what data should be sent, you should click on data and select the necessary PS. These data will be specified [here](https://api.a-pay.one/#tag/Deposit/paths/~1Remotes~1create-deposit/post)
@@ -33,7 +33,7 @@ Below is information about our server's responses to such requests, as well as t
 Our server sends the following data to the client in the request:&#x20;
 
 * **success** - a parameter that is responsible for whether the response is successful or not
-* **status** - status of deposit creation
+* **status** - status of the deposit creation
 * **order\_id** - our internal unique order, which is assigned to each transaction&#x20;
 * **data** - additional data that depends on the PS. To find out what data should be sent, you need to click on data and select the desired PS. This data will be spelled out [here](https://api.a-pay.one/#tag/Deposit/paths/~1Remotes~1create-deposit/post) in the response section. In this case, it is a link to the deposit payment
 

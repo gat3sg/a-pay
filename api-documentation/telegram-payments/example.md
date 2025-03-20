@@ -16,7 +16,7 @@ Invoice messages with a pay button can be sent to chats of any type: private cha
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-You can adjust behaviour of the pay button in your invoices. Detailed information here: [Choose Forwarding Behavior](https://core.telegram.org/bots/payments#2-choose-forwarding-behavior)
+You can adjust the behavior of the pay button in your invoices. Detailed information can be found here: [Choose Forwarding Behavior](https://core.telegram.org/bots/payments#2-choose-forwarding-behavior)
 
 ## **2. Pre-Checkout**
 
@@ -57,7 +57,7 @@ Before your merchant bot goes into live mode, please ensure that you've complete
 ## **Live Checklist**
 
 * We highly recommend turning on [2-step verification](https://telegram.org/faq#q-how-does-2-step-verification-work) for the Telegram account that controls your bot.
-* You as the bot owner have **full responsibility** in case any conflicts or disputes arise. You must be prepared to correctly process disputes and chargebacks.
+* • You, as the bot owner have **full responsibility** in case any conflicts or disputes arise. You must be prepared to correctly process disputes and chargebacks
 * To prevent any misunderstandings and possible legal issues, make sure your bot can respond to a `/terms` command (or offers a similarly easy way of accessing your Terms and Conditions). Your Terms and Conditions should be written in a clear way and easy to understand for your users. The users must confirm that they have read and agree to your terms before they make the purchase.
 * Your bot must provide support for its customers, either by responding to a `/support` command or by some other clearly communicated means. Users must have a clear way of contacting you about their purchases and you must process their support requests in a timely fashion. You must notify your users that Telegram support or [bot support](https://t.me/botsupport) will not able to help them with purchases made via your bot.
-* Make sure that your server hardware and software is stable. Use backups to make sure that you don't lose data about your users' payments.
+* Make sure that your server hardware and software are stable. Use backups to make sure that you don't lose data about your users' payments

@@ -6,10 +6,10 @@ A-Pay provides APIs (x2x, h2h, server-to-server, post-to-post) as well as a paym
 * **Payment Gateway**: A-Pay provides the interface for customer payments.
 * **Telegram Integration**: Use Telegram to interact with A-Pay’s services, allowing customers to receive payment notifications, confirm transactions, and even make payments directly via the app.
 
-You can integrate the payment gateway, use the API, and incorporate Telegram at the same time, so the way of integration depends only on your desire!
+You can integrate the payment gateway, use the API, and incorporate Telegram at the same time, so the method of integration depends entirely on your preference!
 
 {% hint style="warning" %}
-In all cases, integration requires implementation into your back-end.
+In all cases, integration requires implementation into your backend.
 {% endhint %}
 
 ## **Getting Started**

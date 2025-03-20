@@ -137,8 +137,8 @@ The client can compare the generated signature with the received signature from 
 
 The webhook will include the status of the transactions:
 
-* If the status is “Success”, the client should proceed with withdrawal the funds from the user account.
-* If the status is “Failed” or “Rejected,” no funds should be withdrawal, or the withdraw should be canceled.
+* If the status is “Success”, the client should proceed with withdrawing the funds from the user account.
+* If the status is “Failed” or “Rejected,” no funds should be withdrawn, or the withdrawal should be canceled.
 
 #### Postback of transactions for deposit <a href="#postbacken-postbackoftransactionsfordeposit" id="postbacken-postbackoftransactionsfordeposit"></a>
 

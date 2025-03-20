@@ -31,7 +31,7 @@ The payment page supports all languages of the geo where A-pay operates. If the 
 ### How to use the payment page?
 
 {% hint style="info" %}
-Before using the payment gateway, be sure to write to our [sales](https://t.me/apay_sales) for initial integration. Then, with all the necessary data, you can start using the payment page.
+Before using the payment gateway, be sure to write to our [sales team](https://t.me/apay_sales) for initial integration. Then, with all the necessary data, you can start using the payment page.
 {% endhint %}
 
 It is necessary to create a request to open a payment window so that the user can go to the payment gateway. As a client, you can choose different ways to use the A-pay payment window:
@@ -71,7 +71,7 @@ In the first case, you just need to specify the currency, payment systems and a 
 </details>
 
 {% hint style="warning" %}
-For primary traffic - some payment systems, for secondary traffic - others. Which ones to use in this or that case, please specify in the support chat.
+For primary traffic - some payment systems; for secondary traffic - others. Which ones to use in this or that case, please specify in the support chat.
 {% endhint %}
 
 In response to this request, a link to our payment gateway will be provided, where the user will select a payment system and create a deposit on their own. Users should be redirected to this link if they wish to make a deposit.
@@ -180,7 +180,7 @@ The user path in this case is:
 
 1. The user wants to make a deposit
 2. The user clicks the deposit button
-3. The client site detects the user's geo, currency and type of traffic and sends a request to A-pay to open a payment page with certain payment systems or/and amount for that type of traffic
+3. The client site detects the user's geo, currency and type of traffic and sends a request to A-pay to open a payment page with certain payment systems or/and amounts for that type of traffic
 4. A-pay payment window opens with payment systems in the user's currency
 5. The user selects the payment system
 6. The user completes payment
@@ -253,7 +253,7 @@ The user path in this case is as follows:
 1. The user wants to make a deposit
 2. The user clicks the deposit button
 3. On the client's site, the user selects the payment system and the amount of top-up&#x20;
-4. The user confirm the deposit
+4. The user confirms the deposit
 5. The client site sends a request to create a payment link
 6. A-pay sends the link
 7. The client site redirects the user to this link
