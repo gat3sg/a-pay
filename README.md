@@ -117,6 +117,14 @@ We currently provide payment systems for accepting payments from users in these 
 
 </details>
 
+<details>
+
+<summary>Ethiopia</summary>
+
+* **Chapa** – a financial platform in Ethiopia that provides online payment services, money transfers, and e-commerce tools. Chapa focuses on supporting small and medium-sized businesses and promoting financial inclusion in the country.
+
+</details>
+
 If you need to clarify the supported payment systems or add a new one, please [contact us](https://t.me/apay_sales)
 
 ## What can you do with A-pay?
