@@ -1,5 +1,9 @@
 # ❗ Errors
 
+{% hint style="info" %}
+All the messages listed below are returned in responses with the field `code: 400`
+{% endhint %}
+
 ### Payment system data is not valid <a href="#id-dokumentaciya-paymentsystemdataisnotvalid" id="id-dokumentaciya-paymentsystemdataisnotvalid"></a>
 
 The data in the data parameter is invalid, or the field is missing. Our client either does not send the data parameter in the request or sends incorrect data in this parameter.
