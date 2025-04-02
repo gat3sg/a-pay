@@ -6,24 +6,6 @@ Payment gateway is a page that allows your user to select the payment system the
 The payment page cannot be integrated without diving into the API, so if you choose this method of integration, you will still need to customize the backend of your site
 {% endhint %}
 
-Here's what the page looks like:
-
-<details>
-
-<summary>Payment Gateway on mobile</summary>
-
-![](../../.gitbook/assets/select_alias_mobile.png)
-
-</details>
-
-<details>
-
-<summary>Payment Gateway on desktop</summary>
-
-![](../../.gitbook/assets/select_alias_web.png)
-
-</details>
-
 ### What languages does the payment gateway support?
 
 The payment page supports all languages of the geo where A-pay operates. If the language is not passed in the payment gateway creation request, the geo-country language will be selected by default.
@@ -75,6 +57,22 @@ For primary traffic - some payment systems; for secondary traffic - others. Whic
 {% endhint %}
 
 In response to this request, a link to our payment gateway will be provided, where the user will select a payment system and create a deposit on their own. Users should be redirected to this link if they wish to make a deposit.
+
+<details>
+
+<summary>How it looks on mobile</summary>
+
+<img src="../../.gitbook/assets/Screenshot 2025-04-01 at 09.39.23.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>How it looks on desktop</summary>
+
+<img src="../../.gitbook/assets/Screenshot 2025-03-31 at 17.49.51.png" alt="" data-size="original">
+
+</details>
 
 {% hint style="info" %}
 The list of payment systems will be displayed in the order you put them in your request
@@ -138,6 +136,22 @@ Once this parameter is added, the user will have buttons to quickly enter the am
 Opening a payment window without an amount isn't considered a deposit request and will not affect the conversion rate in this case.
 {% endhint %}
 
+<details>
+
+<summary>How it looks on mobile</summary>
+
+<img src="../../.gitbook/assets/Screenshot 2025-04-01 at 09.36.25.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>How it looks on desktop</summary>
+
+<img src="../../.gitbook/assets/Screenshot 2025-04-01 at 09.16.05.png" alt="" data-size="original">
+
+</details>
+
 You can actually block the payment amount, but leave the choice of payment system and send us this request. In this case, the user will not be able to change the payment amount but will be able to choose any convenient payment system that is currently connected to your project and is available to the user by traffic type. This is especially handy if you have a payment for services.
 
 <details>
@@ -169,7 +183,7 @@ You can actually block the payment amount, but leave the choice of payment syste
 ```json
 {
   "success": true,
-  "url": "https://a-pay.one/pay?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjI5LCJleHAiOjE3MDE0NDMwODd9.zZXK5K1ipGYj01G2MGFzERdRW5vIXQgxKo1B6GSmYcQ",
+  "url": "https://a-pay4.one/pay?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjI5LCJleHAiOjE3MDE0NDMwODd9.zZXK5K1ipGYj01G2MGFzERdRW5vIXQgxKo1B6GSmYcQ",
   "order_id": "7fa13dbc3b79e05e"
 }
 ```
@@ -185,6 +199,22 @@ The user path in this case is:
 5. The user selects the payment system
 6. The user completes payment
 7. Once the payment has been completed, the user will be redirected to the returnlink
+
+<details>
+
+<summary>How it looks on mobile</summary>
+
+<img src="../../.gitbook/assets/Screenshot 2025-04-01 at 09.37.50.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>How it looks on desktop</summary>
+
+<img src="../../.gitbook/assets/Screenshot 2025-04-01 at 09.26.44.png" alt="" data-size="original">
+
+</details>
 
 ### Payment gateway with complete data
 
@@ -207,14 +237,17 @@ The required parameters for this method of using the payment gateway are describ
 ```json
 {
   "amount": 300, //Required. The amount of deposit that the user has entered on your site
-  "currency": "INR", //Required. Currency in which the user makes a deposit
+  "currency": "PKR", //Required. Currency in which the user makes a deposit
   "payment_system": [ //Required. Only 1 payment system. Payment system that is connected to your product
-    "upi_fast",
+    "jazzcash_fast",
   ],
   "custom_transaction_id": "custom123", //Required
   "custom_user_id": "user123", //Required. Client number for identification in the system
+  "language": "EN",
   "return_url": "https://example.com", //Required. returnlink to your site
-  "language": "EN"
+  "data": { //Data depending on the specific payment system
+    "account_number": "" //User's account number
+  }
 }
 ```
 
@@ -229,7 +262,7 @@ When making such a request, A-pay will send a link, following which the user wil
 ```json
 {
   "success": true,
-  "url": "https://a-pay.one/pay?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjI5LCJleHAiOjE3MDE0NDMwODd9.zZXK5K1ipGYj01G2MGFzERdRW5vIXQgxKo1B6GSmYcQ",
+  "url": "https://a-pay4.one/pay?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjI5LCJleHAiOjE3MDE0NDMwODd9.zZXK5K1ipGYj01G2MGFzERdRW5vIXQgxKo1B6GSmYcQ",
   "order_id": "7fa13dbc3b79e05e"
 }
 ```
@@ -242,9 +275,17 @@ The opening of such a link by a user will be a deposit request and will affect t
 
 <details>
 
-<summary>Example of UI for payment gateway for mobile</summary>
+<summary>How it looks on mobile</summary>
 
-![](../../.gitbook/assets/PP.png)![](<../../.gitbook/assets/PP_video (1).png>)
+<img src="../../.gitbook/assets/example mobile.jpeg" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>How it looks on desktop</summary>
+
+<img src="../../.gitbook/assets/example desktop.png" alt="" data-size="original">
 
 </details>
 
@@ -276,7 +317,7 @@ We do not advise you to use our payment page via iframe, but if you do decide to
     </div>
 
 
-    <script type="text/javascript" src="https://a-pay1.one/pay/iframe-script.js"></script>
+    <script type="text/javascript" src="https://a-pay4.one/pay/iframe-script.js"></script>
 
 
 </body>
