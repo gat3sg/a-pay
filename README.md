@@ -62,14 +62,6 @@ We currently provide payment systems for accepting payments from users in these 
 
 <details>
 
-<summary>Uzbekistan</summary>
-
-* **Payme** - a modern payment instrument that allows users to conveniently and securely use the Payme service to pay for goods, and services and make transfers.
-
-</details>
-
-<details>
-
 <summary>Tunisia</summary>
 
 * **D17** - a tunisian payment system, facilitating secure and reliable electronic transactions, including deposits and withdrawals, for individuals and businesses.

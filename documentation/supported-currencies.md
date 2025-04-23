@@ -16,7 +16,6 @@ description: List of supported currencies
 | NPR  | रु     |
 | PKR  | Rs     |
 | TND  | TD     |
-| UZS  | лв     |
 | ETB  | Br     |
 
 The list is constantly being updated with new currencies later
