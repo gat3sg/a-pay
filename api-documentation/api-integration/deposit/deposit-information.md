@@ -1,8 +1,8 @@
 # Deposit information
 
-{% openapi src="../../../.gitbook/assets/apay_openapi.json" path="/Remotes/deposit-info" method="get" %}
-[apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
-{% endopenapi %}
+{% openapi-operation spec="a-pay-api" path="/Remotes/deposit-info" method="get" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}
 
 **Example of the responses:**
 

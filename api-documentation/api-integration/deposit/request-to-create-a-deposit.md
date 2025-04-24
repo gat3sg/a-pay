@@ -6,9 +6,9 @@ This section provides information on the most popular request - deposit creation
 
 
 
-{% openapi src="../../../.gitbook/assets/apay_openapi.json" path="/Remotes/create-deposit" method="post" %}
-[apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
-{% endopenapi %}
+{% openapi-operation spec="a-pay-api" path="/Remotes/create-deposit" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}
 
 In order for the request to be created correctly, it is necessary to comply with the documentation requirements: all required fields must be present in the request, and field validation must be observed.&#x20;
 

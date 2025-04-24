@@ -2,9 +2,9 @@
 
 Some payment methods resends the OTP code.
 
-{% openapi src="../../../.gitbook/assets/apay_openapi.json" path="/Remotes/deposit-resend-otp" method="post" %}
-[apay_openapi.json](../../../.gitbook/assets/apay_openapi.json)
-{% endopenapi %}
+{% openapi-operation spec="a-pay-api" path="/Remotes/deposit-resend-otp" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}
 
 **Examples of the responses:**
 
