@@ -6,3 +6,4 @@ You can learn more about API integration here:
 
 * [Deposit](deposit/)
 * [Withdrawal](withdrawal.md)
+* [Lost transaction](https://app.gitbook.com/o/LNbZs3dNMDs1xm16Y9hk/s/dRt6CV4HPvnslXUaqL9U/~/changes/116/api-documentation/api-integration/lost-transaction)
