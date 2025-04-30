@@ -153,6 +153,6 @@ Easy integration of A-pay payment gateway on your platform
 
 Your platform will accept payments directly via Telegram
 
-* [How to start accepting payments via my Telegram bot? ](api-documentation/telegram-payments/)
+* [How to start accepting payments via my Telegram bot? ](broken-reference)
 
 To get initial access to your Personal Account, [contact A-pay sales](https://t.me/apay_sales)
