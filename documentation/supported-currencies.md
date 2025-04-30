@@ -17,5 +17,6 @@ description: List of supported currencies
 | PKR  | Rs     |
 | TND  | TD     |
 | ETB  | Br     |
+| LKR  | Rs     |
 
 The list is constantly being updated with new currencies later

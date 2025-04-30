@@ -4,7 +4,7 @@ A-pay.one is an online service designed for making secure money transfers betwee
 
 ## **Advantages of Service** [**A-pay.one**](https://a-pay.one)
 
-* Fast and easy integration into web resources, allowing acceptance of e-payments in multiple currencies via the A-pay payment gateway or h2h method, including Telegram payments;
+* Fast and easy integration into web resources, allowing acceptance of e-payments in multiple currencies via the A-pay payment gateway or h2h method;
 * To ensure customer safety and preserve their private funds, the service doesn't store or process users’ personal data. Transaction requests are signed with a private key using encryption algorithms;
 * Acceptance of P2P and P2C payments;
 * No holds or rolling reserves;
@@ -13,7 +13,8 @@ A-pay.one is an online service designed for making secure money transfers betwee
 * Instant depositing of money, a clear and simple money transfer process;
 * Multilingual technical support available 24/7;
 * Fast auto-withdrawals.
-* Telegram Payments
+
+
 
 **If you want to work with us -** [**contact A-pay**](https://t.me/apay_sales) **now!**
 
@@ -114,6 +115,14 @@ We currently provide payment systems for accepting payments from users in these 
 <summary>Ethiopia</summary>
 
 * **Chapa** – a financial platform in Ethiopia that provides online payment services, money transfers, and e-commerce tools. Chapa focuses on supporting small and medium-sized businesses and promoting financial inclusion in the country.
+
+</details>
+
+<details>
+
+<summary>Sri Lanka</summary>
+
+* **iPay** – a digital payment platform in Sri Lanka that allows users to send money, pay bills, and make online purchases. With features like biometric login, real-time bank transfers, and expense tracking, iPay is a convenient and secure solution for everyday financial transactions in Sri Lanka.
 
 </details>
 
