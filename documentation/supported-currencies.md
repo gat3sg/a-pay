@@ -18,5 +18,6 @@ description: List of supported currencies
 | TND  | TD     |
 | ETB  | Br     |
 | LKR  | Rs     |
+| EGP  | E£     |
 
 The list is constantly being updated with new currencies later

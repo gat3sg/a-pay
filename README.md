@@ -126,6 +126,14 @@ We currently provide payment systems for accepting payments from users in these 
 
 </details>
 
+<details>
+
+<summary>Egypt</summary>
+
+* Wallet P2P – a payment method that uses a mobile phone number. This method allows users to send and receive money instantly through USSD massages or banking apps, offering a fast and convenient way to handle everyday payments.
+
+</details>
+
 If you need to clarify the supported payment systems or add a new one, please [contact us](https://t.me/apay_sales)
 
 ## What can you do with A-pay?
