@@ -134,6 +134,14 @@ We currently provide payment systems for accepting payments from users in these 
 
 </details>
 
+<details>
+
+<summary>Argentina</summary>
+
+* CVU P2P – this method allows users to send and receive money instantly between digital wallets or bank accounts using a CVU (Clave Virtual Uniforme). It’s widely supported by fintech platforms and is commonly used for quick, low-cost transfers between individuals.
+
+</details>
+
 If you need to clarify the supported payment systems or add a new one, please [contact us](https://t.me/apay_sales)
 
 ## What can you do with A-pay?

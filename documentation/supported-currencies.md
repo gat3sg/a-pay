@@ -19,5 +19,6 @@ description: List of supported currencies
 | ETB  | Br     |
 | LKR  | Rs     |
 | EGP  | E£     |
+| ARS  | $      |
 
 The list is constantly being updated with new currencies later
