@@ -99,6 +99,7 @@ We currently provide payment systems for accepting payments from users in these 
 <summary>Myanmar</summary>
 
 * **WavePay -** a mobile wallet service in Myanmar, WavePay allows users to transfer money, pay bills, and top-up mobile phones. It’s one of the leading digital payment platforms in Myanmar.
+* **KBZPay** – a digital wallet in Myanmar provided by KBZ Bank. It allows users to transfer money, pay bills, recharge mobile phones, and make payments via QR codes.
 
 </details>
 
