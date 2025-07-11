@@ -15,7 +15,6 @@
   * [💰 Deposit](api-documentation/api-integration/deposit/README.md)
     * [Request to create a deposit](api-documentation/api-integration/deposit/request-to-create-a-deposit.md)
     * [Deposit Activation](api-documentation/api-integration/deposit/deposit-activation.md)
-    * [Deposit resend OTP](api-documentation/api-integration/deposit/deposit-resend-otp.md)
     * [Deposit information](api-documentation/api-integration/deposit/deposit-information.md)
   * [📤 Withdrawal](api-documentation/api-integration/withdrawal.md)
   * [🔍 Lost transaction](api-documentation/api-integration/lost-transaction/README.md)
