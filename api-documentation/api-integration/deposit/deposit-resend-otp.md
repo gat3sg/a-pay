@@ -1,9 +1,13 @@
+---
+hidden: true
+---
+
 # Deposit resend OTP
 
 Some payment methods resends the OTP code.
 
 {% openapi-operation spec="a-pay-api" path="/Remotes/deposit-resend-otp" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI a-pay-api](https://api.a-pay.one/openapi.json)
 {% endopenapi-operation %}
 
 **Examples of the responses:**
