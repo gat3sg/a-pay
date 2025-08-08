@@ -20,5 +20,6 @@ description: List of supported currencies
 | LKR  | Rs     |
 | EGP  | E£     |
 | ARS  | $      |
+| PEN  | $      |
 
 The list is constantly being updated with new currencies later

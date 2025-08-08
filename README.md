@@ -131,7 +131,7 @@ We currently provide payment systems for accepting payments from users in these 
 
 <summary>Egypt</summary>
 
-* Wallet P2P – a payment method that uses a mobile phone number. This method allows users to send and receive money instantly through USSD massages or banking apps, offering a fast and convenient way to handle everyday payments.
+* **Digital Wallet** – a payment method that uses a mobile phone number. This method allows users to send and receive money instantly through USSD massages or banking apps, offering a fast and convenient way to handle everyday payments.
 
 </details>
 
@@ -139,7 +139,15 @@ We currently provide payment systems for accepting payments from users in these 
 
 <summary>Argentina</summary>
 
-* CVU P2P – this method allows users to send and receive money instantly between digital wallets or bank accounts using a CVU (Clave Virtual Uniforme). It’s widely supported by fintech platforms and is commonly used for quick, low-cost transfers between individuals.
+* **CVU** – this method allows users to send and receive money instantly between digital wallets or bank accounts using a CVU (Clave Virtual Uniforme). It’s widely supported by fintech platforms and is commonly used for quick, low-cost transfers between individuals.
+
+</details>
+
+<details>
+
+<summary>Peru</summary>
+
+* **Yape** – a mobile wallet in Peru that enables users to send and receive money instantly using a phone number. It is widely used for everyday transactions, bill payments, and online purchases, offering a fast, free, and convenient way to deposit funds.
 
 </details>
 
