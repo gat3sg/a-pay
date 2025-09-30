@@ -7,7 +7,7 @@
 The section is similar to the [**Request to create a deposit**](withdrawal.md#request-to-create-a-withdrawal) section. Only the data required to create a withdrawal request will change.
 
 {% openapi-operation spec="a-pay-api" path="/Remotes/create-withdrawal" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI a-pay-api](https://api.a-pay.one/openapi.json)
 {% endopenapi-operation %}
 
 All the necessary information can be found in our [API documentation](https://api.a-pay.one/#tag/Withdrawal/paths/~1Remotes~1create-withdrawal/post).
@@ -39,9 +39,9 @@ All the necessary information can be found in our [API documentation](https://ap
 
 ### Withdrawal information
 
-{% openapi src="../../.gitbook/assets/apay_openapi.json" path="/Remotes/withdrawal-info" method="get" %}
-[apay_openapi.json](../../.gitbook/assets/apay_openapi.json)
-{% endopenapi %}
+{% openapi-operation spec="a-pay-api" path="/Remotes/withdrawal-info" method="get" %}
+[OpenAPI a-pay-api](https://api.a-pay.one/openapi.json)
+{% endopenapi-operation %}
 
 **Examples of the responses:**
 
