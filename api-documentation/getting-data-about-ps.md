@@ -7,57 +7,44 @@ The integration of our service into your platform is expected to be done with th
 There is a request, by creating and sending which you will find out which payment system is connected to your project and what limits there are on it. API docs about that request are [here](https://api.a-pay.one/#tag/Payment-system/paths/~1Remotes~1payment-systems-info/get).
 
 {% openapi-operation spec="a-pay-api" path="/Remotes/payment-systems-info" method="get" %}
-[Broken link](broken-reference)
+[OpenAPI a-pay-api](https://api.a-pay.one/openapi.json)
 {% endopenapi-operation %}
-
-**Example of the responses:**
-
-{% code title="Success" %}
-```json
-{
-  "success": true,
-  "payment_systems": [
-    {
-      "name": "mpesa",
-      "currency": "INR",
-      "min_deposit": "10.00",
-      "max_deposit": "10000.00",
-      "min_withdrawals": "10.00",
-      "max_withdrawals": "10000.00"
-    }
-  ]
-}
-```
-{% endcode %}
-
-{% code title="Error" %}
-```json
-{
-  "success": false,
-  "message": "Invalid request",
-  "code": 400
-}
-```
-{% endcode %}
 
 ### Auto display method and auto update minimum and maximum payment limits
 
-You can use this request to automate the display of our payment methods and their limits on your platform. The functionality is straightforward: **once every 5 minutes**, you send us a request, and we respond with the active payment systems and their limits. Based on our response, you can enable or disable the display of our payment methods, as well as adjust the minimum and/or maximum deposit and withdrawal limits.
+Use this request to automatically display our active payment methods and their limits on your platform. You can call the method periodically (e.g., every 5 minutes) to keep your data up to date.
 
-There is a slight difference depending on how you are integrated with us
+The response also contains information about which directions are currently available — deposits, withdrawals, or both.
 
-#### **For H2H integration**
+There is a slight difference depending on how you are integrated with us:
 
-You need to implement the following logic. Send us a request for "getting data about the payment system." If the response includes a payment system that you have integrated, display that method. If the payment system does not appear in the response but is integrated, hide the method. Additionally, we send limits in the response, which you can automatically adjust on your frontend and backend.
+#### **H2H integration**
 
-#### **For integration via our payment page**
+For H2H integration, follow this logic:
 
-There are two ways to use the current functionality:
+1. Send a request to get available payment systems.
+2. If a payment system you have integrated is present in the response — display it.\
+   If it’s missing — hide it.
+3. Update minimum and maximum limits according to the response.
+4. Use the `deposit` and `withdrawal` flags to determine whether the payment system should be displayed, and for which directions it’s available.
 
-a. **Single payment system request**:\
-When you request only one payment system via our payment page, the functionality is the same as the H2H integration (see above).
+#### **Payment page integration**
 
-b. **Multiple payment systems request**:\
-When you request a list of payment systems through our payment page, the logic differs slightly. You should hide a payment method on your platform only when none of the requested payment systems are returned in the response. Display the payment method if at least one of the requested payment systems is included in the response.
+For integrations via our payment page, there are two options:
 
-For example, if you request the following payment systems via the payment page: `upi_p2p`, `phonepe`, `paytm`, and you periodically send us requests to check their availability. If at some point we respond with only `upi_p2p`, do not hide the method, as `upi_p2p` is still available. However, if none of the requested payment systems (i.e., `upi_p2p`, `phonepe`, `paytm`) are returned in the response, the method should be hidden from the frontend. Similarly, if at least one payment system from the list (e.g., `phonepe`) appears in the response, you should display the method.
+**a. Single payment system request**
+
+The behavior is similar to the H2H integration. However, withdrawals are not available when using our payment page. In this case, you should ignore the `withdrawal` flag and display the method **only if `deposit = true`**.
+
+**b. Multiple payment systems request**
+
+When you send a request containing several payment systems (e.g., `upi_p2p`, `phonepe`, `paytm`):
+
+* Display the payment method if **at least one** of the requested systems is returned in the response with `deposit = true`.
+* Hide the method only if **none** of the requested systems appear, or all of them have `deposit = false`.
+* You can ignore the `withdrawal` flag, as withdrawals are not available when using our payment page.
+
+For example, if you request the following payment systems via the payment page: `upi_p2p`, `phonepe`, `paytm`, and you periodically send us requests to check their availability:
+
+* If we respond with only `upi_p2p` where `deposit = true` — do **not** hide the method, since a deposit option is still available.
+* If we respond with only systems where `deposit = false`, or none of the requested systems are returned — hide the method.
