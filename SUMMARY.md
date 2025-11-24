@@ -27,3 +27,7 @@
 ***
 
 * [👨‍💻 OpenAPI Docs](https://api.a-pay.one)
+
+## A-PAY MERCHANT PORTAL
+
+* [📊 A-pay Merchant Portal](https://app.gitbook.com/s/4GiUD4nehhLIWqxaI99h/)
