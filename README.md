@@ -151,6 +151,14 @@ We currently provide payment systems for accepting payments from users in these 
 
 </details>
 
+<details>
+
+<summary>Paraguay</summary>
+
+* **Bancard** — a leading Paraguayan payment system that allows people and businesses to pay and receive money using credit or debit cards, QR-codes or mobile/online payments. It works for in-store purchases, online shopping, bill payments and transfers, offering a fast, secure and convenient alternative to cash or traditional bank transfers.
+
+</details>
+
 If you need to clarify the supported payment systems or add a new one, please [contact us](https://t.me/apay_sales)
 
 ## What can you do with A-pay?
@@ -187,6 +195,6 @@ Easy integration of A-pay payment gateway on your platform
 
 Your platform will accept payments directly via Telegram
 
-* [How to start accepting payments via my Telegram bot? ](broken-reference)
+* [How to start accepting payments via my Telegram bot? ](/broken/pages/6E1njoh3VjVofnYvnu6j)
 
 To get initial access to your Personal Account, [contact A-pay sales](https://t.me/apay_sales)
