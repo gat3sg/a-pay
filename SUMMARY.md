@@ -23,6 +23,7 @@
 * [🔙 Postback](api-documentation/postback.md)
 * [📈 Settlement](api-documentation/settlement.md)
 * [❗ Errors](api-documentation/errors.md)
+* [FAQ](api-documentation/faq.md)
 
 ***
 

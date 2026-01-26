@@ -80,14 +80,6 @@ We currently provide payment systems for accepting payments from users in these 
 
 <details>
 
-<summary>Brazil</summary>
-
-* **PIX -** a real-time payment system developed by the Central Bank of Brazil. PIX allows fast and secure money transfers, operating 24/7, and is used extensively for peer-to-peer and business transactions.
-
-</details>
-
-<details>
-
 <summary>Mexico</summary>
 
 * **SPEI -** a mexico’s Interbank Electronic Payment System (SPEI), operated by the central bank, allows instant money transfers between banks. It’s widely used for both personal and business financial transactions in Mexico.
@@ -115,7 +107,7 @@ We currently provide payment systems for accepting payments from users in these 
 
 <summary>Ethiopia</summary>
 
-* **Chapa** – a financial platform in Ethiopia that provides online payment services, money transfers, and e-commerce tools. Chapa focuses on supporting small and medium-sized businesses and promoting financial inclusion in the country.
+* Telebirr – Telebirr is Ethiopia's leading mobile money service, launched by state-owned Ethio Telecom in May 2021 to promote cashless transactions and financial inclusion.
 
 </details>
 
