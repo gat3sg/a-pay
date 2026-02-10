@@ -21,5 +21,6 @@ description: List of supported currencies
 | EGP  | E£     |
 | ARS  | $      |
 | PEN  | $      |
+| PYG  | ₲      |
 
 The list is constantly being updated with new currencies later

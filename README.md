@@ -16,6 +16,8 @@ A-pay.one is an online service designed for making secure money transfers betwee
 
 
 
+You can find the available integration options on the [Start Integration](api-documentation/start-integration.md) page.
+
 **If you want to work with us -** [**contact A-pay**](https://t.me/apay_sales) **now!**
 
 ## In which countries is A-pay available?&#x20;
@@ -148,6 +150,7 @@ We currently provide payment systems for accepting payments from users in these 
 <summary>Paraguay</summary>
 
 * **Bancard** — a leading Paraguayan payment system that allows people and businesses to pay and receive money using credit or debit cards, QR-codes or mobile/online payments. It works for in-store purchases, online shopping, bill payments and transfers, offering a fast, secure and convenient alternative to cash or traditional bank transfers.
+* **Itaú** – a leading bank in Paraguay offering a comprehensive mobile banking platform that enables users to send and receive money transfers instantly through their mobile app. It's widely trusted for secure, convenient, and instant digital transactions in Paraguay.
 
 </details>
 

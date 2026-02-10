@@ -2,8 +2,9 @@
 
 A-Pay provides APIs (x2x, h2h, server-to-server, post-to-post) as well as a payment gateway (page) integration to process your transactions.
 
-* **API Integration**: You develop and maintain all the interfaces for your customers.
-* **Payment Gateway**: A-Pay provides the interface for customer payments.
+* **Payment gateway** — A fast and simple way to accept payments. Customers are redirected to a secure  payment page hosted by A-Pay, and you receive only the result. Minimal development required, with all security handled by us.
+* **API** — Full control over the payment process directly on your website. You create the interface for entering payment details and manage the entire payment flow via API. Ideal for custom workflows.
+* **API + Payment Gateway** — You can use both options depending on your need.
 
 You can integrate the payment gateway and use the API, so the method of integration depends entirely on your preference!
 
