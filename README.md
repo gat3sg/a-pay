@@ -154,6 +154,14 @@ We currently provide payment systems for accepting payments from users in these 
 
 </details>
 
+<details>
+
+<summary>Uruguay</summary>
+
+**BROU** — Banco de la República Oriental del Uruguay (BROU) is the largest state-owned bank in Uruguay. Payments are made via the eBROU mobile app, allowing users to securely and instantly complete transactions directly from their bank accounts. The method supports everyday payments and online purchases, providing a fast, reliable, and widely trusted digital payment option in Uruguay.
+
+</details>
+
 If you need to clarify the supported payment systems or add a new one, please [contact us](https://t.me/apay_sales)
 
 ## What can you do with A-pay?

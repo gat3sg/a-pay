@@ -22,5 +22,6 @@ description: List of supported currencies
 | ARS  | $      |
 | PEN  | $      |
 | PYG  | ₲      |
+| UYU  | $      |
 
 The list is constantly being updated with new currencies later
