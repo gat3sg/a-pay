@@ -23,5 +23,7 @@ description: List of supported currencies
 | PEN  | $      |
 | PYG  | ₲      |
 | UYU  | $      |
+| CFA  | CFA    |
+| GNF  | FG     |
 
 The list is constantly being updated with new currencies later
