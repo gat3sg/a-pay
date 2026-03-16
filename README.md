@@ -162,6 +162,28 @@ We currently provide payment systems for accepting payments from users in these 
 
 </details>
 
+<details>
+
+<summary>Senegal</summary>
+
+**Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+
+</details>
+
+<details>
+
+<summary>Guinea</summary>
+
+**Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+
+</details>
+
+
+
+
+
+
+
 If you need to clarify the supported payment systems or add a new one, please [contact us](https://t.me/apay_sales)
 
 ## What can you do with A-pay?
