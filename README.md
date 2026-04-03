@@ -166,7 +166,17 @@ We currently provide payment systems for accepting payments from users in these 
 
 <summary>Senegal</summary>
 
-**Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+* **Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+* **Wave** - a popular mobile payment app and one of the most widely used financial solutions in West Africa. It works as a digital wallet that allows users to send and receive money, store funds on their phone, and pay for services without a bank account.
+
+</details>
+
+<details>
+
+<summary>Mali</summary>
+
+* **Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+* **Wave** - a popular mobile payment app and one of the most widely used financial solutions in West Africa. It works as a digital wallet that allows users to send and receive money, store funds on their phone, and pay for services without a bank account.
 
 </details>
 
@@ -177,8 +187,6 @@ We currently provide payment systems for accepting payments from users in these 
 **Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
 
 </details>
-
-
 
 
 
