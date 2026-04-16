@@ -218,6 +218,12 @@ A convenient way to manage and make a settlement from your A-pay account to your
 
 * [How to create a settlement?](api-documentation/settlement.md)
 
+### Automate your payment checks with A-pay
+
+Create transaction reports in CSV format for daily payment checks
+
+* [How to create and download a report?](api-documentation/report.md)
+
 ### Use A-pay Payment Gateway
 
 Easy integration of A-pay payment gateway on your platform

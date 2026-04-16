@@ -22,6 +22,7 @@
     * [Lost transaction information](api-documentation/api-integration/lost-transaction/lost-transaction-information.md)
 * [🔙 Postback](api-documentation/postback.md)
 * [📈 Settlement](api-documentation/settlement.md)
+* [📅 Report](api-documentation/report.md)
 * [❗ Errors](api-documentation/errors.md)
 
 ***
