@@ -26,11 +26,9 @@ We currently provide payment systems for accepting payments from users in these 
 
 <details>
 
-<summary>India</summary>
+<summary>Argentina</summary>
 
-* **UPI** - a real-time payment system in India that facilitates instant fund transfers and payments between banks through mobile devices. It allows users to link multiple bank accounts to a single mobile application, providing a seamless and convenient way to perform transactions. UPI has become a widely used platform for digital payments, offering simplicity and efficiency in financial transactions.
-* **Paytm** - a payment system that allows users to make transactions, pay bills, recharge mobile phones, book tickets, and more through its mobile app. One of the key features of Paytm is its digital wallet, which users can load with money and then use for various transactions without the need for physical cash. Overall, Paytm plays a significant role in the digital payment ecosystem in India.
-* **PhonePe** - a mobile application and digital payments platform in India. It supports the Unified Payments Interface (UPI) for instant fund transfers between bank accounts. Users can use PhonePe for mobile recharges, bill payments, and online shopping, and it also offers a digital wallet feature. It has become popular for its versatility in facilitating various financial transactions through smartphones.
+* **CVU** – this method allows users to send and receive money instantly between digital wallets or bank accounts using a CVU (Clave Virtual Uniforme). It’s widely supported by fintech platforms and is commonly used for quick, low-cost transfers between individuals.
 
 </details>
 
@@ -41,6 +39,77 @@ We currently provide payment systems for accepting payments from users in these 
 * **bKash** - a mobile financial service in Bangladesh that allows users to perform various transactions through their mobile phones. bKash has contributed to financial inclusion by providing a convenient and accessible platform for digital financial transactions in Bangladesh.
 * **Nagad** - a mobile financial service in Bangladesh that provides users with a platform for various financial transactions through their mobile phones. Users can link their mobile numbers to create a Nagad account, allowing them to store money securely and perform transactions conveniently. Nagad has played a role in promoting financial inclusion by providing accessible digital financial services to a broad range of users in Bangladesh.
 * **Upay** - a digital financial service. Upon receiving the license from Bangladesh Bank, upay started offering a broad range of mobile financial services to people from all walks of life.
+* **TAP Wallet** – a mobile financial service in Bangladesh that allows users to perform a wide range of digital financial transactions through their mobile phones.
+
+</details>
+
+<details>
+
+<summary>Bahrain</summary>
+
+* **Stc pay** – a digital wallet and mobile payment service in Bahrain that enables users to carry out various financial transactions through a mobile application. It serves as a convenient solution for funding accounts and managing digital payments.
+
+</details>
+
+<details>
+
+<summary>Bolivia</summary>
+
+* **Yape** — is a mobile wallet and payment service in Peru that allows users to send and receive money instantly using phone numbers or QR codes. It enables payments, bill payments, and purchases directly from the app, with or without a traditional bank account, making it accessible to a wide range of users.
+* **VeriPagos** — is a QR-based payment solution in Bolivia that enables real-time payment verification and secure transaction processing. It provides instant confirmation and streamlined tracking, ensuring efficient and reliable digital payments.
+
+</details>
+
+<details>
+
+<summary>Cambodia</summary>
+
+* **Wing -** a mobile financial service provider in Cambodia, Wing offers banking services, including money transfers, bill payments, and e-commerce payments. It’s known for reaching underbanked communities.
+* **ABA Bank** – a leading commercial bank in Cambodia that offers digital banking services through its mobile application, enabling users to perform secure financial transactions. Its platform is widely used as a convenient method for funding accounts and managing everyday banking activities.
+
+</details>
+
+<details>
+
+<summary>Egypt</summary>
+
+* **Digital Wallet** – a payment method that uses a mobile phone number. This method allows users to send and receive money instantly through USSD massages or banking apps, offering a fast and convenient way to handle everyday payments.
+
+</details>
+
+<details>
+
+<summary>Ethiopia</summary>
+
+* **Telebirr** – Telebirr is Ethiopia's leading mobile money service, launched by state-owned Ethio Telecom in May 2021 to promote cashless transactions and financial inclusion.
+
+</details>
+
+<details>
+
+<summary>Guinea</summary>
+
+**Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+
+</details>
+
+<details>
+
+<summary>India</summary>
+
+* **UPI** - a real-time payment system in India that facilitates instant fund transfers and payments between banks through mobile devices. It allows users to link multiple bank accounts to a single mobile application, providing a seamless and convenient way to perform transactions. UPI has become a widely used platform for digital payments, offering simplicity and efficiency in financial transactions.
+* **Paytm** - a payment system that allows users to make transactions, pay bills, recharge mobile phones, book tickets, and more through its mobile app. One of the key features of Paytm is its digital wallet, which users can load with money and then use for various transactions without the need for physical cash. Overall, Paytm plays a significant role in the digital payment ecosystem in India.
+* **PhonePe** - a mobile application and digital payments platform in India. It supports the Unified Payments Interface (UPI) for instant fund transfers between bank accounts. Users can use PhonePe for mobile recharges, bill payments, and online shopping, and it also offers a digital wallet feature. It has become popular for its versatility in facilitating various financial transactions through smartphones.
+* **IMPS (India)** – an instant interbank electronic funds transfer system in India that enables real-time financial transactions between bank accounts. It operates 24/7 and is widely used through mobile and internet banking platforms, making it a reliable solution for immediate payments.
+
+</details>
+
+<details>
+
+<summary>Jamaica</summary>
+
+* **Scotiabank** – an international banking institution operating in Jamaica that provides digital banking services and account management capabilities. Its online and mobile platforms are commonly used as a secure method for funding accounts directly from bank balances.
+* **Lynk** – a mobile wallet and digital payment platform in Jamaica that allows users to perform financial transactions without requiring a traditional bank account. It is widely used as an accessible method for funding accounts through mobile devices.
 
 </details>
 
@@ -54,29 +123,10 @@ We currently provide payment systems for accepting payments from users in these 
 
 <details>
 
-<summary>Pakistan</summary>
+<summary>Mali</summary>
 
-* **Bank Alfalah** - a commercial bank based in Pakistan, was established in 1997. It provides a range of banking and financial services. The bank also operates internationally and offers digital banking services for online and mobile transactions.
-* **Easypaisa** - a mobile financial services platform in Pakistan, established in 2009. It enables users to perform financial transactions through their mobile phones, including mobile money transfers, bill payments, and the creation of a digital wallet linked to their mobile numbers. Easypaisa has contributed to financial inclusion by providing accessible and convenient financial services, particularly in areas where traditional banking may be less accessible.
-* **JazzCash -** a leading mobile wallet and payment solution in Pakistan, allowing users to send money, pay bills, and make online purchases. It’s widely used for quick, convenient, and secure digital transactions.
-* **NayaPay -** a digital payment platform in Pakistan, offering users an e-wallet and debit card. It enables online payments, money transfers, and other financial transactions with ease.
-
-</details>
-
-<details>
-
-<summary>Tunisia</summary>
-
-* **D17** - a tunisian payment system, facilitating secure and reliable electronic transactions, including deposits and withdrawals, for individuals and businesses.
-
-</details>
-
-<details>
-
-<summary>Nepal</summary>
-
-* **eSewa -** a nepal’s first digital wallet, eSewa allows users to make online payments, transfer funds, and pay utility bills. It’s widely adopted for day-to-day transactions in Nepal.
-* **Khalti -** a popular digital wallet in Nepal, Khalti offers services like bill payments, money transfers, and online shopping. It’s known for its user-friendly interface and convenience.
+* **Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+* **Wave** — a popular mobile payment app and one of the most widely used financial solutions in West Africa. It works as a digital wallet that allows users to send and receive money, store funds on their phone, and pay for services without a bank account.
 
 </details>
 
@@ -99,49 +149,32 @@ We currently provide payment systems for accepting payments from users in these 
 
 <details>
 
-<summary>Cambodia</summary>
+<summary>Nepal</summary>
 
-* **Wing -** a mobile financial service provider in Cambodia, Wing offers banking services, including money transfers, bill payments, and e-commerce payments. It’s known for reaching underbanked communities.
-
-</details>
-
-<details>
-
-<summary>Ethiopia</summary>
-
-* Telebirr – Telebirr is Ethiopia's leading mobile money service, launched by state-owned Ethio Telecom in May 2021 to promote cashless transactions and financial inclusion.
+* **eSewa -** a nepal’s first digital wallet, eSewa allows users to make online payments, transfer funds, and pay utility bills. It’s widely adopted for day-to-day transactions in Nepal.
+* **Khalti -** a popular digital wallet in Nepal, Khalti offers services like bill payments, money transfers, and online shopping. It’s known for its user-friendly interface and convenience.
+* **IME Pay** – a digital wallet service in Nepal that enables users to perform various financial transactions through their mobile devices. Following its merger with Khalti, its services are being integrated into a broader digital payments ecosystem, contributing to the development of cashless payments in Nepal.
 
 </details>
 
 <details>
 
-<summary>Sri Lanka</summary>
+<summary>Pakistan</summary>
 
-* **iPay** – a digital payment platform in Sri Lanka that allows users to send money, pay bills, and make online purchases. With features like biometric login, real-time bank transfers, and expense tracking, iPay is a convenient and secure solution for everyday financial transactions in Sri Lanka.
-
-</details>
-
-<details>
-
-<summary>Egypt</summary>
-
-* **Digital Wallet** – a payment method that uses a mobile phone number. This method allows users to send and receive money instantly through USSD massages or banking apps, offering a fast and convenient way to handle everyday payments.
+* **Bank Alfalah** - a commercial bank based in Pakistan, was established in 1997. It provides a range of banking and financial services. The bank also operates internationally and offers digital banking services for online and mobile transactions.
+* **Easypaisa** - a mobile financial services platform in Pakistan, established in 2009. It enables users to perform financial transactions through their mobile phones, including mobile money transfers, bill payments, and the creation of a digital wallet linked to their mobile numbers. Easypaisa has contributed to financial inclusion by providing accessible and convenient financial services, particularly in areas where traditional banking may be less accessible.
+* **JazzCash -** a leading mobile wallet and payment solution in Pakistan, allowing users to send money, pay bills, and make online purchases. It’s widely used for quick, convenient, and secure digital transactions.
+* **NayaPay -** a digital payment platform in Pakistan, offering users an e-wallet and debit card. It enables online payments, money transfers, and other financial transactions with ease.
+* **Raast** – an instant payment system in Pakistan developed by the State Bank of Pakistan that enables real-time financial transactions between individuals, businesses, and government entities. It is commonly used as a fast and low-cost method for funding accounts.
 
 </details>
 
 <details>
 
-<summary>Argentina</summary>
+<summary>Panama</summary>
 
-* **CVU** – this method allows users to send and receive money instantly between digital wallets or bank accounts using a CVU (Clave Virtual Uniforme). It’s widely supported by fintech platforms and is commonly used for quick, low-cost transfers between individuals.
-
-</details>
-
-<details>
-
-<summary>Peru</summary>
-
-* **Yape** – a mobile wallet in Peru that enables users to send and receive money instantly using a phone number. It is widely used for everyday transactions, bill payments, and online purchases, offering a fast, free, and convenient way to deposit funds.
+* **Yappy** — is an instant mobile payment system in Panama that allows users to send and receive money using phone numbers. It is integrated with participating banks, enabling real-time transactions directly from bank accounts.
+* **Banistmo** — is a major bank in Panama that offers a mobile banking app for managing accounts, transferring money, paying bills, and making QR payments. It also supports phone-number-based transfers through local payment networks, providing convenient digital banking services.
 
 </details>
 
@@ -156,9 +189,9 @@ We currently provide payment systems for accepting payments from users in these 
 
 <details>
 
-<summary>Uruguay</summary>
+<summary>Peru</summary>
 
-**BROU** — Banco de la República Oriental del Uruguay (BROU) is the largest state-owned bank in Uruguay. Payments are made via the eBROU mobile app, allowing users to securely and instantly complete transactions directly from their bank accounts. The method supports everyday payments and online purchases, providing a fast, reliable, and widely trusted digital payment option in Uruguay.
+* **Yape** – a mobile wallet in Peru that enables users to send and receive money instantly using a phone number. It is widely used for everyday transactions, bill payments, and online purchases, offering a fast, free, and convenient way to deposit funds.
 
 </details>
 
@@ -167,24 +200,33 @@ We currently provide payment systems for accepting payments from users in these 
 <summary>Senegal</summary>
 
 * **Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
-* **Wave** - a popular mobile payment app and one of the most widely used financial solutions in West Africa. It works as a digital wallet that allows users to send and receive money, store funds on their phone, and pay for services without a bank account.
+* **Wave** — a popular mobile payment app and one of the most widely used financial solutions in West Africa. It works as a digital wallet that allows users to send and receive money, store funds on their phone, and pay for services without a bank account.
 
 </details>
 
 <details>
 
-<summary>Mali</summary>
+<summary>Sri Lanka</summary>
 
-* **Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
-* **Wave** - a popular mobile payment app and one of the most widely used financial solutions in West Africa. It works as a digital wallet that allows users to send and receive money, store funds on their phone, and pay for services without a bank account.
+* **iPay** – a digital payment platform in Sri Lanka that allows users to send money, pay bills, and make online purchases. With features like biometric login, real-time bank transfers, and expense tracking, iPay is a convenient and secure solution for everyday financial transactions in Sri Lanka.
+* **PayGo** — это система цифровых платежей в Шри-Ланке, которая позволяет пользователям безопасно отправлять и получать деньги. Она обеспечивает быстрые и эффективные денежные переводы, предлагая простой и надежный способ цифрового перемещения средств.
 
 </details>
 
 <details>
 
-<summary>Guinea</summary>
+<summary>Tunisia</summary>
 
-**Orange Money** — is a leading mobile payment service that allows users to send and receive money, pay bills, and make purchases using their phones. Transactions can be done securely through the app or via USSD codes, making it accessible even without internet.
+* **D17** - a tunisian payment system, facilitating secure and reliable electronic transactions, including deposits and withdrawals, for individuals and businesses.
+* **Flouci** – a mobile application and digital payment platform in Tunisia that allows users to manage digital accounts and perform secure financial transactions. It is designed to promote financial inclusion by offering accessible and modern financial services through smartphones.
+
+</details>
+
+<details>
+
+<summary>Uruguay</summary>
+
+* **BROU** — Banco de la República Oriental del Uruguay (BROU) is the largest state-owned bank in Uruguay. Payments are made via the eBROU mobile app, allowing users to securely and instantly complete transactions directly from their bank accounts. The method supports everyday payments and online purchases, providing a fast, reliable, and widely trusted digital payment option in Uruguay.
 
 </details>
 
