@@ -27,3 +27,9 @@ To authenticate your requests with A-Pay, use the following parameters:
 • **apikey:** Your unique API key.
 
 • **project\_id:** Your project identifier.
+
+## **Test Project**
+
+* Access a test project to verify the integration before onboarding live users
+* Use separate test API keys and Project ID, and replace them with production credentials before going live
+* For transactions in the test project, we manually send callbacks with the statuses you need in order to test your webhook handling. To set the required status, please send a request in the support chat.

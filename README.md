@@ -1,16 +1,16 @@
 # ❇️ About A-pay Platform
 
-A-pay.one is an online service designed for making secure money transfers between the Client of the service and the Users of the Client's resource (Customer).
+A-pay.one is a PSP (Payment Service Provider) built on its own payment systems, enabling secure and efficient money transfers between the Client and the Users of the Client’s platform (Customers).
 
 ## **Advantages of Service** [**A-pay.one**](https://a-pay.one)
 
-* Fast and easy integration into web resources, allowing acceptance of e-payments in multiple currencies via the A-pay payment gateway or h2h method;
-* To ensure customer safety and preserve their private funds, the service doesn't store or process users’ personal data. Transaction requests are signed with a private key using encryption algorithms;
+* Fast and easy integration into web resources, allowing acceptance of e-payments in multiple currencies via the A-pay payment gateway or H2H method;
+* No storage or processing of users’ personal data, ensuring customer safety and protection of funds through encrypted transaction signing with a private key;
 * Acceptance of P2P and P2C payments;
 * No holds or rolling reserves;
 * Convenient statistics in Customer’s Personal Account;
-* Connecting to any business area: online shops, edtech, subscription services, marketplaces, etc;
-* Instant depositing of money, a clear and simple money transfer process;
+* Suitable for any business model, including online shops, edtech, subscription services, marketplaces, etc;
+* Instant deposits and a clear, simple money transfer process;
 * Multilingual technical support available 24/7;
 * Fast auto-withdrawals.
 

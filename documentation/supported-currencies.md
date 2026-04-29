@@ -25,5 +25,10 @@ description: List of supported currencies
 | UYU  | $      |
 | XOF  | CFA    |
 | GNF  | FG     |
+| JMD  | J$     |
+| EUR  | €      |
+| BOB  | Bs.    |
+| BHD  | BD     |
+| USD  | $      |
 
 The list is constantly being updated with new currencies later
