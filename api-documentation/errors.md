@@ -112,7 +112,7 @@ The error tells us that:
 **How can you resolve it by yourself?**
 
 1. You should look at the request and compare the currency in the request with the data in our documentation
-2. Check the payment system and its limits [by this method](getting-data-about-ps.md).
+2. Check the payment system and its limits [by this method](payment-systems-information/getting-data-about-ps.md).
 3. If your payment system is enabled and the amount is within limits, but the error still persists, contact us via your client chat.
 
 ### Amount of deposit is out of limits
@@ -121,7 +121,7 @@ The error tells us that the requested amount exceeded the limits of the payment 
 
 **How can you resolve it by yourself?**
 
-Check the payment system and its limits [with this method](getting-data-about-ps.md).
+Check the payment system and its limits [with this method](payment-systems-information/getting-data-about-ps.md).
 
 ### Amount of withdrawal is more than balance sum <a href="#id-dokumentaciya-amountofwithdrawalismorethanbalancesum" id="id-dokumentaciya-amountofwithdrawalismorethanbalancesum"></a>
 

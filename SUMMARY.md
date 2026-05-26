@@ -8,7 +8,9 @@
 ## API Documentation
 
 * [🚀 Start Integration](api-documentation/start-integration.md)
-* [🈁 Getting data about PS](api-documentation/getting-data-about-ps.md)
+* [📈 Payment Systems information](api-documentation/payment-systems-information/README.md)
+  * [🈁 Getting data about PS](api-documentation/payment-systems-information/getting-data-about-ps.md)
+  * [🧮 Getting payment system balances](api-documentation/payment-systems-information/getting-payment-system-balances.md)
 * [📃 Payment Page Integration](api-documentation/payment-page-integration/README.md)
   * [Payment Gateway](api-documentation/payment-page-integration/payment-gateway.md)
 * [🖥️ API Integration](api-documentation/api-integration/README.md)
