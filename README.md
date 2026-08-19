@@ -271,12 +271,4 @@ Create transaction reports in CSV format for daily payment checks
 
 Easy integration of A-pay payment gateway on your platform
 
-* [How to add and use a payment gateway?](api-documentation/payment-page-integration/payment-gateway.md)
-
-### Connect Your Telegram Bot to A-pay
-
-Your platform will accept payments directly via Telegram
-
-* [How to start accepting payments via my Telegram bot? ](/broken/pages/6E1njoh3VjVofnYvnu6j)
-
-To get initial access to your Personal Account, [contact A-pay sales](https://t.me/apay_sales)
+* [How to add and use a payment gateway](api-documentation/payment-page-integration/payment-gateway.md)
