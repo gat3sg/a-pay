@@ -227,6 +227,7 @@ We currently provide payment systems for accepting payments from users in these 
 <summary>Uruguay</summary>
 
 * **BROU** — Banco de la República Oriental del Uruguay (BROU) is the largest state-owned bank in Uruguay. Payments are made via the eBROU mobile app, allowing users to securely and instantly complete transactions directly from their bank accounts. The method supports everyday payments and online purchases, providing a fast, reliable, and widely trusted digital payment option in Uruguay.
+* **Mercado Pago** — is a payment platform in Uruguay that provides users with convenient tools to accept and manage digital payments, making it a popular solution for everyday financial transactions in Uruguay.
 
 </details>
 
