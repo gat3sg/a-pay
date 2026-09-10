@@ -40,6 +40,7 @@ We currently provide payment systems for accepting payments from users in these 
 * **Nagad** - a mobile financial service in Bangladesh that provides users with a platform for various financial transactions through their mobile phones. Users can link their mobile numbers to create a Nagad account, allowing them to store money securely and perform transactions conveniently. Nagad has played a role in promoting financial inclusion by providing accessible digital financial services to a broad range of users in Bangladesh.
 * **Upay** - a digital financial service. Upon receiving the license from Bangladesh Bank, upay started offering a broad range of mobile financial services to people from all walks of life.
 * **TAP Wallet** – a mobile financial service in Bangladesh that allows users to perform a wide range of digital financial transactions through their mobile phones.
+* **Bangla QR** – an interoperable QR payment system in Bangladesh that allows users to make digital payments by scanning a standardized QR code through supported banking and mobile financial service applications.
 
 </details>
 
